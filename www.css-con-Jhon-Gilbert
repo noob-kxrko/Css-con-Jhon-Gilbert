@@ -1,0 +1,7 @@
+eco "# Css-con-Jhon-Gilbert" >> README.md
+git init
+git añadir README.md
+git commit - m "primer commit"
+rama git - M principal
+git remoto agregar origen https://www.com/noob-kxrko/Css-con-Jhon-Gilbert.com
+git push - origen principal
